@@ -8,7 +8,7 @@ _______________________________________________________________________________
 
 
 Laser accelerated ions appear in successive charge states (usually positively charged). The acceleration mechanism highly depends on the ion's charge state (charge to mass number: Z/A). Hence, the maximum kinetic energy of ions with succesive charge states allows us to derive information about the underlying force, meaning the Ekin(max) to (Z/A)^i scaling factor. 
-This question arises in the case of symmetries in the maximum (minimum) kinetic energies of accelerated ions with same mass number but successive charge states. (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.124801)
+This question arises in the special case of symmetries in the maximum (minimum) kinetic energies of accelerated ions with same mass number at successive charge states. (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.124801)
 
 The fast ions travelled through a Thomson spectrometer (static E and B field) and are dispersed according to their velocity and Z/A.  The detector usually a Multi-channel-plate (MCP) is imaged with a camera from which the magnification factor is needed. 
  
