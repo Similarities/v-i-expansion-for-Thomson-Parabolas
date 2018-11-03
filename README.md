@@ -22,7 +22,7 @@ K3: 0,
 K4: -0.000038.
 -----------------------------------------------
 In the code various constant for experimental parameter are given to determine the spectrometer function. So far, the code
-is only in def not OOD. Since usual polynom fitting routines do only lead to an multi-power expansion without e.g. symmetry reasonings or other restrictions, this approach found a solution that delivers a high accuracy in the reproduction of the experimental results with a very low number of expansion power. This leads to a much better understanding of the analytical function for the data and revealed new physical content.
+is only in def not OOD. Since usual polynom fitting routines do only lead to an multi-power expansion without e.g. symmetry reasonings or other restrictions, this approach found a solution that delivers a highly accurate reproduction of the experimental results with a very low number of expansion power. This leads to a much better understanding of the analytical function for the data and revealed new physical content.
 Details can be found in https://depositonce.tu-berlin.de/handle/11303/6149.
 
 
