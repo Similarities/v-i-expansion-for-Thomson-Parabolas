@@ -13,7 +13,8 @@ This question arises in the special case of symmetries in the maximum (minimum) 
 The fast ions travelled through a Thomson spectrometer (static E and B field) and are dispersed according to their velocity and Z/A.  The detector usually a Multi-channel-plate (MCP) is imaged with a camera from which the magnification factor is needed. 
  
 '''''''''''''''''''''''''
-This evaluation software displays an expansion of the velocity ( v(max)=Sum (k0 + k1*v*Z/A + k2*v0*(Z)^2/A + k3*v0*(Z)^3/A + k4*v0*(Z^4)/A, where v0 is 10^7 m/s and is treated in the following as a function of (Z^i/A).  Here, ki terms denote constants that have to be given in the input. k0 in particulare denotes a constant velocity that is independent of the Z/A scaling. Usual parameters that fit to example picture: 
+This evaluation software displays an expansion of the velocity 
+v(max(Z/A))=Sum (k0 + k1*v*Z/A + k2*v0*(Z)^2/A + k3*v0*(Z)^3/A + k4*v0*(Z^4)/A, where v0 is 10^7 m/s and is treated in the following as a function of (Z^i/A).  Here, ki terms denote constants that have to be given in the input. k0 in particular denotes a constant velocity that is independent of the Z/A scaling. Usual parameters that fit to example picture: 
 K0: 0.1,
 K1: 0,
 K2: 0.16,
